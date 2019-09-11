@@ -1,1 +1,2 @@
-# exploratory_data_analysis_w1
+# Exploratory Data Analysis
+## Week 1
